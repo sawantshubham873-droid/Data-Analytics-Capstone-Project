@@ -4,5 +4,7 @@ This repository contains the files, analysis, visualizations, Power BI dashboard
 ## Project Status
 
 Repository setup completed. Git workflow practice is being performed as part of the Data Analytics Capstone Project.
+##Git Workflow
 
+The repository demonstrates the basic Git workflow including staging, committing, pushing and pulling changes.
 																							
